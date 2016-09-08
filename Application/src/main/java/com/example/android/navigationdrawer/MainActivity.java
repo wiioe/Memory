@@ -40,6 +40,9 @@ public class MainActivity extends Activity implements AdapterView.OnItemClickLis
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // splash 띄우기
+        startActivity(new Intent(this, SplashActivity.class));
+
         // Prepare list of samples in this dashboard.
         mSamples = new Sample[]{
             new Sample(R.string.navigationdraweractivity_title, R.string.navigationdraweractivity_description,

@@ -60,6 +60,10 @@
         "source": "/Users/appcreator39/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
+        "merged": "/Users/appcreator39/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/Users/appcreator39/AndroidStudioProjects/Memory/Application/src/main/res/layout/splash.xml"
+    },
+    {
         "merged": "/Users/appcreator39/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/Users/appcreator39/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_layout.xml"
     },

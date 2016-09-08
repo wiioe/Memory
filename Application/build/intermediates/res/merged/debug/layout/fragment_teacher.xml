@@ -17,7 +17,7 @@
         android:padding="32dp" />
 
     <ImageView
-        android:src="@drawable/t3"
+        android:src="@drawable/yt"
         android:layout_centerHorizontal="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

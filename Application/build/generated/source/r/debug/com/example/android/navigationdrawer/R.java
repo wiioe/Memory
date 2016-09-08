@@ -1940,14 +1940,16 @@ containing a value of this type.
         public static final int mars=0x7f020059;
         public static final int mercury=0x7f02005a;
         public static final int neptune=0x7f02005b;
-        public static final int notification_template_icon_bg=0x7f020063;
+        public static final int notification_template_icon_bg=0x7f020065;
         public static final int saturn=0x7f02005c;
-        public static final int t1=0x7f02005d;
-        public static final int t2=0x7f02005e;
-        public static final int t3=0x7f02005f;
-        public static final int tile=0x7f020060;
-        public static final int uranus=0x7f020061;
-        public static final int venus=0x7f020062;
+        public static final int suzi=0x7f02005d;
+        public static final int t1=0x7f02005e;
+        public static final int t2=0x7f02005f;
+        public static final int t3=0x7f020060;
+        public static final int tile=0x7f020061;
+        public static final int uranus=0x7f020062;
+        public static final int venus=0x7f020063;
+        public static final int yt=0x7f020064;
     }
     public static final class id {
         public static final int action0=0x7f0b0058;
@@ -2105,7 +2107,8 @@ containing a value of this type.
         public static final int select_dialog_item_material=0x7f03002a;
         public static final int select_dialog_multichoice_material=0x7f03002b;
         public static final int select_dialog_singlechoice_material=0x7f03002c;
-        public static final int support_simple_spinner_dropdown_item=0x7f03002d;
+        public static final int splash=0x7f03002d;
+        public static final int support_simple_spinner_dropdown_item=0x7f03002e;
     }
     public static final class menu {
         public static final int navigation_drawer=0x7f0d0000;
