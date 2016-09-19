@@ -252,7 +252,7 @@ public class NavigationDrawerActivity extends Activity implements PlanetAdapter.
                     break;
             }
             String planet = getResources().getStringArray(R.array.planets_array)[i];
-            iv = ((ImageView) rootView.findViewById(R.id.image));
+            iv = ((ImageView) rootView.findViewById(R.id.img1));
             iv.setOnClickListener(m_nda);
 
 

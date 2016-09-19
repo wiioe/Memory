@@ -42,7 +42,8 @@
             android:theme="@android:style/Theme.NoTitleBar">
         </activity>
         <activity android:name=".NavigationDrawerActivity"/>
-        <activity android:name=".ViewPagerActivity"></activity>
+        <activity android:name=".ViewPagerActivity"
+            android:theme="@style/Theme.AppCompat"/>
     </application>
 
 
